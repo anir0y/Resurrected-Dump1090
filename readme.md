@@ -21,3 +21,7 @@ The revived "Dump1090" project aims to provide a user-friendly and accessible in
 **Note**: As this project was originally authored in 2014, we are committed to updating and enhancing it based on modern best practices and user feedback. Your contributions and suggestions are highly encouraged and appreciated.
 
 Let's embark on this SDR adventure together! Happy hacking! 📻🛰️
+
+## live at windows
+
+![windows_img](https://i.imgur.com/MDaAGIH.png)
