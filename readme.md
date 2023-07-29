@@ -22,6 +22,11 @@ The revived "Dump1090" project aims to provide a user-friendly and accessible in
 
 Let's embark on this SDR adventure together! Happy hacking! 📻🛰️
 
-## live at windows
+## Live at windows
 
 ![windows_img](https://i.imgur.com/MDaAGIH.png)
+
+# hardware I use
+
+- Amazon: https://amzn.to/3q2aGV3 (affiliate link)
+
